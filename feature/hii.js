@@ -3,7 +3,7 @@ import React from 'react'
 const hii = () => {
   return (
     <section>
-      hii
+      hii hello
     </section>
   )
 }
